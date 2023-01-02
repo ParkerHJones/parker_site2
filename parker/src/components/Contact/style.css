@@ -1,0 +1,12 @@
+.contact {
+    flex-grow: 1;
+}
+
+.contact h1 {
+    margin-bottom: 20px; 
+    font-size: 80px; 
+}
+
+.text {
+    font-size: 30px; 
+}
